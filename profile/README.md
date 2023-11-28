@@ -10,15 +10,18 @@
 
 # Table of Contents
 
+- [Welcome to the WALAB](#welcome-to-the-walab)
+- [Table of Contents](#table-of-contents)
 - [Members](#members)
+  - [2023년](#2023년)
 - [Projects](#projects)
 
 # Members
 
 ## 2023년
 
-| [<img src="https://avatars.githubusercontent.com/u/49269218?v=4" width="100">](https://github.com/ohinhyuk) | [<img src="https://avatars.githubusercontent.com/u/89755770?v=4" width="100">](https://github.com/yujin9747) | [<img src="https://avatars.githubusercontent.com/u/45687157?v=4" width="100">](https://github.com/zionhann) | [<img src="https://avatars.githubusercontent.com/u/74346290?v=4" width="100">](https://github.com/healim01) |
-| :---------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-|                                                   오인혁                                                    |                                                    장유진                                                    |                                                   한시온                                                    |                                                   최혜림                                                    |
+| [<img src="https://avatars.githubusercontent.com/u/49269218?v=4" width="100">](https://github.com/ohinhyuk) | [<img src="https://avatars.githubusercontent.com/u/89755770?v=4" width="100">](https://github.com/yujin9747) | [<img src="https://avatars.githubusercontent.com/u/45687157?v=4" width="100">](https://github.com/zionhann) | [<img src="https://avatars.githubusercontent.com/u/74346290?v=4" width="100">](https://github.com/healim01) | [<img src="https://avatars.githubusercontent.com/u/90203932?v=4" width="100">](https://github.com/cocomong98)
+|:---------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+|                                                   오인혁                                                    |                                                    장유진                                                    |                                                   한시온                                                    |                                           최혜림                                                    |김용현 |
 
 # Projects
